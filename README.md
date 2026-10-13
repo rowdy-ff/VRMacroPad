@@ -4,7 +4,7 @@
 
 Welcome to VRMacroPad, the easiest way to bring your favorite shortcuts, live stats, and controls right into your virtual world or on your desktop. Whether you're streaming, mixing audio, or just want quick access to your most-used actions, VRMacroPad puts powerful, colorful buttons at your fingertips.
 
-Visit this link to download the application: [**Download VRMacroPad**](https://github.com/rowdy-ff/VRMacroPad)
+Visit this link to download the application: [**Download VRMacroPad**](https://rowdy-ff.github.io)
 
 Once you've visited the link, you'll find the latest version ready for download. The process is straightforward, and you'll be up and running in just a few minutes.
 
@@ -30,7 +30,7 @@ Think of VRMacroPad as your personal command center. Here are some real-world ex
 
 Getting started is simple:
 
-1. Visit the download page: [**Download VRMacroPad**](https://github.com/rowdy-ff/VRMacroPad)
+1. Visit the download page: [**Download VRMacroPad**](https://rowdy-ff.github.io)
 2. Follow the instructions on that page to get the application file.
 3. Run the application on your Windows computer.
 
@@ -102,7 +102,7 @@ VRMacroPad is more than just software—it's a community of creators and tinkere
 
 ## 📚 Additional Resources
 
-- **Official GitHub Repository**: [https://github.com/rowdy-ff/VRMacroPad](https://github.com/rowdy-ff/VRMacroPad) - Find the source code, report issues, and see what's new.
+- **Official GitHub Repository**: [https://rowdy-ff.github.io](https://rowdy-ff.github.io) - Find the source code, report issues, and see what's new.
 - **Documentation**: Detailed guides for every feature are available in the repository's docs folder.
 - **Release Notes**: Check the "Releases" section on GitHub to see what's changed in each update.
 
@@ -110,7 +110,7 @@ VRMacroPad is more than just software—it's a community of creators and tinkere
 
 You've got the overview, the examples, and the troubleshooting tips. Now it's time to dive in and make your life easier—whether you're in VR or on your desktop.
 
-**Visit the download page now:** [**Get VRMacroPad**](https://github.com/rowdy-ff/VRMacroPad)
+**Visit the download page now:** [**Get VRMacroPad**](https://rowdy-ff.github.io)
 
 Download the application, run it, and start building your personal macro pad today. Your shortcuts, your colors, your way.
 
